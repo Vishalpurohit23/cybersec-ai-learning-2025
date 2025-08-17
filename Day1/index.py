@@ -1,0 +1,7 @@
+print('Welcome to Python 101 using scrimba')
+print('create nails')
+print('create hammer')
+print('use hammer and nails')
+print("Hello, Cybersecurity Automation World!")
+name = input("What's your name? ")
+print(f"Welcome, {name} !")
