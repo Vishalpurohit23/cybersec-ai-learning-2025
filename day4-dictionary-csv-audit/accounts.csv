@@ -1,0 +1,6 @@
+username,account_type,is_locked,mfa_enabled
+Varun,admin,False,True
+admin_svc,admin,True,True
+splunk_api,service,False,False
+dheeraj,admin,False,True
+finance_admin,admin,True,False
